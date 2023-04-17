@@ -71,3 +71,4 @@ On Gradescope, submit the following items:
 info)
 - A screenshot of the SMS confirmation ID printed to the console with your 
 commit message
+- A screenshot of the text message you received from Twilio
